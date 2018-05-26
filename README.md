@@ -4,7 +4,7 @@ Correlation station! Choo choo! :station:
 See it here: https://correl-symptom-tracker.herokuapp.com/
 
 ## Description
-Correl is an application that allows users to enter symptoms they are suffering with and potentially contributing factors to  see any correlations between them over time.
+Correl is an application that allows users to rate symptoms and potential contributing factors. These data points are plotted on a graph to show any correlations over time.
 
 ## User Journey/User Stories
 #### As a user, I can...
